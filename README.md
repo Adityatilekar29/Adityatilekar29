@@ -1,16 +1,17 @@
 # About Me:
-🚀 I am passionate about building modern, responsive, and user-friendly web applications.  
-I enjoy working on real-world projects and continuously improving my development skills.  
+💻 BCA Student | Full Stack Web Developer  
 
-🛠️ Tech Stack:  
+I am a passionate web developer focused on creating modern and responsive web applications.  
+I have hands-on experience in frontend and backend technologies and enjoy building real-world projects.  
+
+🛠️ Skills:  
 React.js | JavaScript | HTML | CSS | Bootstrap | PHP | MySQL  
 
 🌱 Currently Learning:  
-Advanced React & Backend Development  
+Advanced React & Laravel  
 
 🎯 Goal:  
-To become a skilled Full Stack Developer and work on real-world applications.
-
+To grow as a Full Stack Developer and contribute to real-world projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-tilekar-4328a5393) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AdityaTilekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tilekaraditya80@gmail.com) 
