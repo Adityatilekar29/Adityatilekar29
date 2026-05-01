@@ -1,5 +1,15 @@
 # About Me:
-🔭 I’m currently working on building an E-commerce Web Application<br><br>👯 I’m looking to collaborate on real-world React projects<br><br>🤝 I’m looking for help with full-stack development and Laravel<br><br>🌱 I’m currently learning advanced React and backend technologies<br><br>💬 Ask me about Web Development (HTML, CSS, Bootstrap, JS, React, PHP)<br><br>⚡ Fun fact: I enjoy building clean UI designs and practical projects
+🚀 I am passionate about building modern, responsive, and user-friendly web applications.  
+I enjoy working on real-world projects and continuously improving my development skills.  
+
+🛠️ Tech Stack:  
+React.js | JavaScript | HTML | CSS | Bootstrap | PHP | MySQL  
+
+🌱 Currently Learning:  
+Advanced React & Backend Development  
+
+🎯 Goal:  
+To become a skilled Full Stack Developer and work on real-world applications.
 
 
 ## 🌐 Socials:
