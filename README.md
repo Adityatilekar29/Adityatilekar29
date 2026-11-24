@@ -159,8 +159,6 @@ I'm open to **internships, collaborations and learning opportunities**. If you'r
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
-
 <br/>
 
 *⭐ If you like my work, consider giving my repositories a star!*
