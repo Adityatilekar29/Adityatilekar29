@@ -1,38 +1,152 @@
-<h1 align="center">Hi, I'm Aditya Tilekar 👋</h1>
-<h3 align="center">MERN Full Stack Developer | Baramati, Maharashtra, India</h3>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aditya%20Tilekar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-tilekar-4328a5393"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+%26+responsive+web+apps;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Clean+code.+Real-world+projects.;Open+to+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aditya-tilekar-4328a5393"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Adityatilekar29"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Adityatilekar29&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Location](https://img.shields.io/badge/📍_Baramati-Maharashtra,_India-2c5364?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_Internships-22c55e?style=flat-square)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
-I'm a MERN Full Stack Developer who enjoys building modern, responsive, and scalable web applications, from clean React interfaces to secure Node.js/Express REST APIs with MongoDB.
-I'm currently looking for **internship opportunities** where I can learn from experienced teams and contribute to real-world products.
+
+I'm a **MERN Full Stack Developer** who loves turning ideas into fast, responsive and user-friendly web applications. I build complete end-to-end solutions, from clean **React** interfaces to secure **Node.js & Express** REST APIs backed by **MongoDB**.
+
+- 🔭 Currently building **full-stack MERN projects** with authentication and role-based access
+- 🌱 Learning **advanced Node.js, security best practices and deployment**
+- 🎯 Looking for an **internship** where I can contribute to real-world products and grow with an experienced team
+- 💬 Ask me about **React, REST APIs, MongoDB and JWT authentication**
+
+---
 
 ## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,redux&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
-| Project | Description | Tech |
-|---|---|---|
-| **CraveKart** | Food ordering app inspired by Zomato: browse restaurants, cart, and orders | MERN |
-| **LMS Platform** | Role-based learning platform with Admin, Instructor & Student dashboards | MERN, JWT |
-| **Media Search App** | Search and manage photos/videos using external APIs | React, Redux Toolkit, Tailwind |
-| **Notes App** | Simple notes manager | React, Tailwind |
 
-## 🌱 Currently Learning
-Advanced Node.js, authentication & security, deployment (Vercel/Render), and system design basics.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📫 Connect With Me
-LinkedIn: [aditya-tilekar](https://www.linkedin.com/in/aditya-tilekar-4328a5393)
+### 🍔 CraveKart
+**Food ordering platform inspired by Zomato**
+
+Browse restaurants and menus, manage the cart, and place orders through a smooth, responsive UI backed by a REST API.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[🔗 Backend Repo](https://github.com/Adityatilekar29/Cravekart-Backend) · [🌐 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 LMS Platform
+**Role-based Learning Management System**
+
+Three roles, each with its own dashboard and permissions: **Admin**, **Instructor** and **Student**. Secure JWT authentication with protected routes.
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+[🔗 Repo](#) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Media Search App
+**Search, view and manage photos & videos**
+
+Fetches media from external APIs with fast search and clean state management.
+
+`React` `Redux Toolkit` `Tailwind CSS`
+
+[🔗 Repo](https://github.com/Adityatilekar29/media-search-app) · [🌐 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Notes App
+**Simple and fast notes manager**
+
+Create, edit and organize notes with a minimal, responsive interface.
+
+`React` `Tailwind CSS`
+
+[🔗 Repo](https://github.com/Adityatilekar29/notes-project) · [🌐 Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityatilekar29&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 🧭 What I'm Working Towards
+
+| Goal | Status |
+|---|---|
+| Build and deploy production-ready MERN apps | 🟢 In progress |
+| Master authentication, authorization & security | 🟢 In progress |
+| Learn TypeScript & Next.js | 🟡 Next |
+| Crack a Full Stack internship | 🎯 Target |
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **internships, collaborations and learning opportunities**. If you're hiring or building something interesting, feel free to reach out!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aditya-tilekar-4328a5393"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+*⭐ If you like my work, consider giving my repositories a star!*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
