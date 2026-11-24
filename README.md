@@ -155,7 +155,7 @@ I'm open to **internships, collaborations and learning opportunities**. If you'r
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aditya-tilekar-4328a5393"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:tilekaraditya80@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
